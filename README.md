@@ -2,6 +2,15 @@
 
 About donation, sponsorship, advertisements, investing, cooperation, SaaS solutions
 
+Współpraca jest możliwa na wielu poziomach z róznymi organizacjami, usługodawcami, specjalistami i influencerami:
++ finansowanie poprzez donacje, sponsoring, reklamy, inwestycje, kooperacje, sprzedaż usług providerów, freelancerów
+
+Fromy promocji projektu mogą być wspierane przez:
++ ogłoszenia pracy, aktywny udział w projekcie, https://www.linkedin.com/hiring/jobs/2751716116/
++ działalność ambasadorów projektu, anażowanie innych poprzez aktywne rozmowy
++ influencerzy w IT, aktywowanie społeczności, informowanie
+
+
 
 ## Finansowanie
 
@@ -14,14 +23,6 @@ Sama architektura, hipermodularna jest mało wymagająca, gdyż pozwala zamykać
 
 [task.webstream.dev](https://task.webstream.dev/#/)
 
-
-
-## Promocja
-
-
-+ ogłoszenia pracy, aktywny udział w projekcie, https://www.linkedin.com/hiring/jobs/2751716116/
-+ działalność ambasadorów projektu, anażowanie innych poprzez aktywne rozmowy
-+ influencerzy w IT, aktywowanie społeczności, informowanie
 
 
 ## Ogłoszenia
