@@ -1,8 +1,6 @@
-# partnership
+# [partnership.webstream.dev](https://partnership.webstream.dev/#/)
+
 About donation, sponsorship, advertisements, investing, cooperation, SaaS solutions
-
-
-
 
 
 ## Finansowanie
