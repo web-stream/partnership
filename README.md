@@ -5,7 +5,9 @@ About donation, sponsorship, advertisements, investing, cooperation, SaaS soluti
 
 
 
-## Jakie finansowanie może optymalnie przyśpieszyć rozwój?
+## Finansowanie
+
+Jakie finansowanie może optymalnie przyśpieszyć rozwój?
 
 każdy developer to koszt rzędu tysięcy EUR
 aby zminimalizować koszty na początku można zwiekszyć ilośc programistów a zmniejszyć czas poświęcony na rozwój
@@ -16,7 +18,7 @@ Sama architektura, hipermodularna jest mało wymagająca, gdyż pozwala zamykać
 
 
 
-## Sposób promowania
+## Promocja
 
 
 + ogłoszenia pracy, aktywny udział w projekcie, https://www.linkedin.com/hiring/jobs/2751716116/
@@ -24,7 +26,9 @@ Sama architektura, hipermodularna jest mało wymagająca, gdyż pozwala zamykać
 + influencerzy w IT, aktywowanie społeczności, informowanie
 
 
-### ogłoszenia pracy jako forma aktywizacji oraz zaangażowania we współprcę
+## Ogłoszenia
+
+ogłoszenia pracy jako forma aktywizacji oraz zaangażowania we współprcę
 
 wówczas jest możliwość zaangażowania juniorów do rozwoju samej biblioteki
 jak i używania potem tego rozwiąznia we własnych projektach
@@ -36,7 +40,10 @@ Gdyż to rozwiązanie tehchniczne i mając dobre rozwiązanie i developerów mo�
 poniżej przykładowa oferta pracy, wymogi:
 + [job.webstream.dev](https://job.webstream.dev/)
 
-## Sposób dystrybucji
+
+## Dystrybucja
+
+Sposób dystrybucji
 
 zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
 
