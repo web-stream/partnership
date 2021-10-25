@@ -78,7 +78,7 @@ zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
 ## Ambasadorzy
 
 + ambasadarów, którzy są specjalistami, ale ani nie chcą rozwijać ani zarabiać na bibliotece
-+ będą informować o tym rozwiżaniu mając inne korzyści z np. 
++ będą informować o tym rozwiązaniu mając inne korzyści z np. 
   + polecenia
   + udostępnianie
  
