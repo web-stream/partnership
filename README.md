@@ -10,9 +10,7 @@ About donation, sponsorship, advertisements, investing, cooperation, SaaS soluti
 + [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 
 
-
 ## Jak wesprzeć projekt Webstream?
-
 
 Współpraca jest możliwa na wielu poziomach z róznymi organizacjami, usługodawcami, specjalistami i influencerami:
 + finansowanie poprzez donacje, sponsoring, reklamy, inwestycje, kooperacje, sprzedaż usług providerów, freelancerów
