@@ -2,6 +2,17 @@
 
 About donation, sponsorship, advertisements, investing, cooperation, SaaS solutions
 
+
+## Czym jest Webstream?
+
++ [about.webstream.dev](https://about.webstream.dev/#/)
++ [docs.webstream.dev](https://docs.webstream.dev/#/)
+
+
+
+## Jak wesprzeć projekt Webstream?
+
+
 Współpraca jest możliwa na wielu poziomach z róznymi organizacjami, usługodawcami, specjalistami i influencerami:
 + finansowanie poprzez donacje, sponsoring, reklamy, inwestycje, kooperacje, sprzedaż usług providerów, freelancerów
 
