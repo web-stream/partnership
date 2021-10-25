@@ -10,7 +10,11 @@ Fromy promocji projektu mogą być wspierane przez:
 + działalność ambasadorów projektu, anażowanie innych poprzez aktywne rozmowy
 + influencerzy w IT, aktywowanie społeczności, informowanie
 
+Poszerzanie grona użytkowników:
 
++ plugin do przeglądarek
++ plugin do narzędzia
++ strony www do generowania specjalizowanych apek, tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
 
 ## Finansowanie
 
@@ -22,6 +26,21 @@ Gdyż obecna faza nie wymaga długofalowego rozwoju, reaktoringu a jedynie polep
 Sama architektura, hipermodularna jest mało wymagająca, gdyż pozwala zamykać zadania w 3 godzinnych sesjach:
 
 [task.webstream.dev](https://task.webstream.dev/#/)
+
+
+## Sponsoring
+software house-y i freelancerzy wykrozystujący bibliotekę, mogą dofinansować projekt i mieć wpływ na jego rozwój.
+aby był aktualziowany, rozwijany i przynosił im korzyści pozwalając zatrudniać juniorów u siebie do rozwijania aplikacji opartych o webstream
+zmniejszając koszty prowadzenia prototypowych projektów.
+
++ na platformie github
++ ...
+
+## crowdufunding dla projektów opensource
++ https://opencollective.com/webstream
+
+## Crowdfunding dla twórców
++ patronite
 
 
 
@@ -73,6 +92,8 @@ Promowanie autorów opensource
 ## kolejne rozwiązania
 
 
+## Współpraca z usługodawcami, cloud
+
 ### Dystrybucja webstream poprzez auto deployment
 
 wykorzystywane przez programistów, którzy tworzą rozszerzenia i klientów, którzy chcą sami uruchomić daną aplikację, np kupioną na licencji
@@ -82,31 +103,6 @@ Dsytrybucja przy wykorzystaniu providerów hostingu i chmury poprzez usługi dep
 + www: deployment.pl
   + opisy dla programistow
   + button: deployment.pl
-
-
-### plugin do przeglądarek
-
-### plugin do narzędzia
-
-
-## strony www do generowania specjalizowanych apek, 
-tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
-
-# Finansowanie
-
-## Sponsoring
-software house-y i freelancerzy wykrozystujący bibliotekę, mogą dofinansować projekt i mieć wpływ na jego rozwój.
-aby był aktualziowany, rozwijany i przynosił im korzyści pozwalając zatrudniać juniorów u siebie do rozwijania aplikacji opartych o webstream
-zmniejszając koszty prowadzenia prototypowych projektów.
-
-+ na platformie github
-+ ...
-
-## crowdufunding dla projektów opensource
-+ https://opencollective.com/webstream
-
-## Crowdfunding dla twórców
-+ patronite
 
 
 # O firmie Softreck
