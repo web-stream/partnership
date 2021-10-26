@@ -47,9 +47,15 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 + ...
 
 ## crowdufunding dla projektów opensource
-+ https://opencollective.com/webstream
+
++ [webstream - Open Collective](https://opencollective.com/webstream)
+
++ [crowdfunding.webstream.dev](https://crowdfunding.webstream.dev/#/)
+
 
 ## Crowdfunding dla twórców
+Szansa dla każdego developera na wsparcie indywidualne, poza organizacją
+
 + patronite
 
 
